@@ -1,0 +1,23 @@
+This is an image tag creater.
+
+Below is the recommended setup.
+
+
+1. Install Apache and copy path to index.html file
+
+2. Create a Clarafai account at https://developer.clarifai.com/
+
+3. Follow Clarifai Quickstart at https://developer.clarifai.com/quick-start/
+Be sure to choose the predict function and copy the API key and API secret
+
+4. Set up a cloudinary account at http://cloudinary.com/
+
+5. Copy API key and API secret from cloudinary
+
+6. Where appropriate in the code, there are TODO's you should paste in your own API keys and path to index.html
+
+7. done!
+
+
+This was a fun project I began in May 2017 to become refamiliar with Python and using APIs.  Enjoy and for any questions, please forward to akatcha@umich.edu. 
+
